@@ -1,9 +1,8 @@
 ![logo](https://github.com/siam9192/Arafat-hasan/blob/main/IMG_20231209_015314.png)
 <h2>Hi 👋, I'm Arafat</h2>
-
-
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 <h2>👨🏻‍💻  About Me </h2> 
+ 
  💡 I like to explore new technologies and develop somthing new. 
 
  🎓  I'm currently studying Computer Science and Tecnology at habiganj polytecnic institute.
@@ -15,7 +14,7 @@
  💬  Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.
 
  📫 You can shoot me an email at  **ahsiam999@gmail.com** ! I'll try to respond as soon as I can.
-   ## Languages and Tools
+   ## Languages and Technologies
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img width="12" />
