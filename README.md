@@ -34,8 +34,8 @@
 
 
 ## 📊 GitHub analaysis:
-![](https://github-readme-stats.vercel.app/api?username=siam9192&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
-![](https://github-readme-streak-stats.herokuapp.com/?user=siam9192&theme=dark&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=siam9192&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=siam9192&show_icons=true&locale=en" alt="siam9192" /></p>
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=siam9192&" alt="siam9192" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=siam9192&show_icons=true&locale=en&layout=compact" alt="siam9192" /></p>
